@@ -1,0 +1,21 @@
+Symbol,Abbreviation,Polarity,Charge,Property
+F,Phe,nonpolar,neutral,hydrophobic
+L,Leu,nonpolar,neutral,hydrophobic
+S,Ser,polar,neutral,polar uncharged
+Y,Tyr,nonpolar,neutral,hydrophobic
+C,Cys,polar,neutral,special
+W,Trp,nonpolar,neutral,hydrophobic
+P,Pro,nonpolar,neutral,special
+H,His,basic,positive,positive charge
+Q,Gln,polar,neutral,polar uncharged
+R,Arg,basic,positive,positive charge
+I,Ile,nonpolar,neutral,hydrophobic
+M,Met,nonpolar,neutral,hydrophobic
+T,Thr,polar,neutral,polar uncharged
+N,Asn,polar,neutral,polar uncharged
+K,Lys,basic,positive,positive charge
+V,Val,nonpolar,neutral,hydrophobic
+A,Ala,nonpolar,neutral,hydrophobic
+D,Asp,acidic,negative,negative charge
+E,Glu,acidic,negative,negative charge
+G,Gly,nonpolar,neutral,special
